@@ -69,3 +69,6 @@ const health_advice = [
     "Incorporate omega-3 fatty acids into your diet through foods like salmon, flaxseeds, or walnuts.",
     "Practice forgiveness and try to maintain a positive outlook on life"
 ];
+
+// Enable exporting of advice arrays for use in main JavaScript file.
+module.exports = {workplace_advice, financial_advice, health_advice};
