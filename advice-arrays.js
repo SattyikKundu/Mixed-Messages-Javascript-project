@@ -22,3 +22,25 @@ const workplace_advice = [
     "Maintain a healthy balance between your work life and personal life.",
     "Continuously seek knowledge and skills to enhance your professional growth."];
 
+const financial_advice = [
+    "Create a detailed budget to track income and expenses.",
+    "Set specific and realistic financial goals for short- and long-term planning.",
+    "Build an emergency fund covering 3-6 months of living expenses.",
+    "Pay off high-interest debt, such as credit card balances, as fast as possible.",
+    "Contribute to retirement accounts, especially if your employer offers matching.",
+    "Automate savings transfers to enforce consistent saving habits.",
+    "Keep your savings in a high-yield savings account for better returns.",
+    "Calculate and monitor your net worth regularly.",
+    "Use the 50/30/20 budget rule: 50% for needs, 30% for wants, and 20% for savings and debt repayment.",
+    "Take advantage of employer benefits, such as 401(k) matching and health insurance perks.",
+    "Consider refinancing or consolidating debt to lower interest rates.",
+    "Invest in a diversified portfolio to spread risk and potentially increase returns.",
+    "Create a financial calendar to track important money-related dates and tasks.",
+    "Pay bills on time to avoid late fees and maintain a good credit score.",
+    "Regularly review and adjust your insurance coverage to ensure adequate protection.",
+    "Educate yourself on personal finance topics to make informed decisions.",
+    "Use cash for discretionary spending to better control your expenses.",
+    "Avoid lifestyle inflation as your income increases.",
+    "Consider opening an Individual Retirement Account (IRA) for additional tax-advantaged savings.",
+    "Review your financial plan regularly and adjust as needed to stay on track."
+];
