@@ -26,12 +26,16 @@ for (advice in random_advices) {
     switch(advice) {
         case 'workplace_advice':
             output.push(`Workplace advice 🏢: ${random_advices[workplace_advice]}`);
+            break;
         case 'financial_advice':
             output.push(`Financial advice 💰: ${random_advices[financial_advice]}`);
+            break;
         case 'health_advice':
             output.push(`Health advice 🥗:    ${random_advices[health_advice]}`);
+            break;
         default:
             output.push('One or more advice quotes is missing...?');
+            break;
     }
 }
 
