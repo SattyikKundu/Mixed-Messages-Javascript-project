@@ -18,3 +18,6 @@ Terminal command (assuming you installed Node.js): node main-program.js
 - Experience with fundamentals of JavaScript structures and syntax.
 - Experience with various Github commands(i.e. clone, pull, commit, push, etc.).
 - Experience dividing program into modular components (like splitting code into functions and importing large arrays from separate files).
+
+# 5.Possible way(s) to expand program later on:
+- Instead of random quotes/advice, I could later attempt random ASCII art images.
